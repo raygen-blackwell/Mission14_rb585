@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F933DD33-19FF-4F46-BA56-03E4FFA437A5}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/MovieDbContext.cs">
+    <Files>
+      <File FileName="Data/Movies.cs" Line="6" Column="24" />
+      <File FileName="Data/MovieDbContext.cs" Line="14" Column="1" />
+      <File FileName="appsettings.json" Line="8" Column="23" />
+      <File FileName="Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MovieAPI" expanded="True">
+            <Node name="MovieAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MovieAPI PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
